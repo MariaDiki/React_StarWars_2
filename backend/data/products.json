@@ -1,0 +1,378 @@
+[
+    {
+        "name": "Star Apron",
+        "price": "19.90",
+        "desription": "Star Wars Chef Apron. Black Culinary cloth. Unleek material one-size.",
+        "rating" : 4.5,
+        "images": [
+            {
+                "public_id": "products/Apron_zm24rm",
+                "url": "https://res.cloudinary.com/dp95pchm3/image/upload/v1699206926/Apron_zm24rm.jpg"
+            }
+        ],
+        "category": "Kitchen",
+    
+        "seller": "Amazon",
+        "Stock": "50",
+        "numOfReview": "30",
+        "reviews": []
+    },
+    {
+        "name": "Mandalorian Beer Cup",
+        "price": "9.90",
+        "desription": "Designed Mangalorian Glass Beer Cup. 300ml capacity",
+        "rating" : 5.0,
+        "images": [
+            {
+                "public_id": "products/BeerCup_rpkrkg",
+                "url": "https://res.cloudinary.com/dp95pchm3/image/upload/v1699207111/BeerCup_rpkrkg.jpg"
+            }
+        ],
+        "category": "Kitchen",
+    
+        "seller": "Amazon",
+        "Stock": "15",
+        "numOfReview": "41",
+        "reviews": []
+    },
+    {
+        "name": "Baby Yoda Blanket ",
+        "price": "10.0",
+        "desription": "Baby Yoda cover blanket. Fade Resistant Polyester 80X100cm",
+        "rating": 5.0,
+        "images": [
+            {
+                "public_id": "products/Blanket_e13eiu",
+                "url": "https://res.cloudinary.com/dp95pchm3/image/upload/v1699207236/Blanket_e13eiu.jpg"
+            }
+        ],
+        "category": "Home",
+    
+        "seller": "StarShip",
+        "Stock": "150",
+        "numOfReview": "200",
+        "reviews": []
+    },
+    {
+        "name": "Storm Trooper Whiskey Set",
+        "price": "150",
+        "desription": "Storn Trooper Whiskey Glass set - Premium Crystal Liquer Decant",
+        "rating": 5.0,
+        "images": [
+            {
+                "public_id": "products/WhiskeySet_uyegnx",
+                "url": "https://res.cloudinary.com/dp95pchm3/image/upload/v1699207228/WhiskeySet_uyegnx.jpg"
+            }
+        ],
+        "category": "Home",
+    
+        "seller": "StarShip",
+        "Stock": "5",
+        "numOfReview": "521",
+        "reviews": []
+    },
+    {
+        "name": "Storm Trooper Whiskey Bottle",
+        "price": "80",
+        "desription": "Storm Trooper Whiskey Glass Bottle - Premium Crystal for Scotch, Bourbon, whiskey, Cognac.",
+        "rating": 4.5,
+        "images": [
+            {
+                "public_id": "products/WhiskeyBottle_zogki1",
+                "url": "https://res.cloudinary.com/dp95pchm3/image/upload/v1699207227/WhiskeyBottle_zogki1.jpg"
+            }
+        ],
+        "category": "Home",
+    
+        "seller": "StarShip",
+        "Stock": "15",
+        "numOfReview": "26",
+        "reviews": []
+    },
+    {
+        "name": "Wall Clock",
+        "price": "10.90",
+        "desription": "24 inches Start Wars Wall Clock with moving gears",
+        "rating": 4.9,
+        "images": [
+            {
+                "public_id": "products/WallClock_wwsmmg",
+                "url": "https://res.cloudinary.com/dp95pchm3/image/upload/v1699207227/WallClock_wwsmmg.jpg"
+            }
+        ],
+        "category": "Home",
+    
+        "seller": "Amazon",
+        "Stock": "50",
+        "numOfReview": "34",
+        "reviews": []
+    },
+    {
+        "name": "Darth Vader Socks",
+        "price": "3.9",
+        "desription": "Darth Vader 100% Cotton Socks, one-size",
+        "rating": 3.5,
+        "images": [
+            {
+                "public_id": "products/VaderSocks_ovc4z9",
+                "url": "https://res.cloudinary.com/dp95pchm3/image/upload/v1699207226/VaderSocks_ovc4z9.jpg"
+            }
+        ],
+        "category": "Wear",
+    
+        "seller": "FunShop",
+        "Stock": "200",
+        "numOfReview": "56",
+        "reviews": []
+    },
+    {
+        "name": "Toaster",
+        "price": "25.0",
+        "desription": "Star Wars Darth Vader Toaster that leaves a logo imprint on the toast (14X25X15.5 cm)",
+        "rating": 4.2,
+        "images": [
+            {
+                "public_id": "products/Toster_gacuf1",
+                "url": "https://res.cloudinary.com/dp95pchm3/image/upload/v1699207225/Toster_gacuf1.jpg"
+            }
+        ],
+        "category": "Kitchen",
+    
+        "seller": "Amazon",
+        "Stock": "22",
+        "numOfReview": "56",
+        "reviews": []
+    },
+    {
+        "name": "Ice Cubes Starship",
+        "price": "8.9",
+        "desription": "Starship Ice Cubes maker, BPA Free. 4PC in package",
+        "rating": 5.0,
+        "images": [
+            {
+                "public_id": "products/ShipIceMaker_am2qee",
+                "url": "https://res.cloudinary.com/dp95pchm3/image/upload/v1699207225/ShipIceMaker_am2qee.jpg"
+            }
+        ],
+        "category": "Kitchen",
+    
+        "seller": "FunShop",
+        "Stock": "900",
+        "numOfReview": "365",
+        "reviews": []
+    },
+    {
+        "name": "R2D2 Calendar",
+        "price": "6.90",
+        "desription": "R2D2 Vintage Robot Calendar. 12cm height",
+        "rating": 3.1,
+        "images": [
+            {
+                "public_id": "products/R2D2Calendar_gkx1ky",
+                "url": "https://res.cloudinary.com/dp95pchm3/image/upload/v1699207224/R2D2Calendar_gkx1ky.jpg"
+            }
+        ],
+        "category": "Gadgets",
+    
+        "seller": "FunShop",
+        "Stock": "69",
+        "numOfReview": "177",
+        "reviews": []
+    },
+    {
+        "name": "Popcorn Maker",
+        "price": "12.90",
+        "desription": "Star Wars Death Star Hot Air Popcorn Maker with measuring cup to portion popping corn.",
+        "rating": 4.9,
+        "images": [
+            {
+                "public_id": "products/PopcornMaker_k7kxfz",
+                "url": "https://res.cloudinary.com/dp95pchm3/image/upload/v1699207224/PopcornMaker_k7kxfz.jpg"
+            }
+        ],
+        "category": "Kitchen",
+    
+        "seller": "StarShip",
+        "Stock": "61",
+        "numOfReview": "59",
+        "reviews": []
+    },
+    {
+        "name": "Darth Vader Pen Holder",
+        "price": "4.5",
+        "desription": "Darth Vader Pen Holder. 8X12 cm",
+        "rating": 4.9,
+        "images": [
+            {
+                "public_id": "products/PenHolder_jgin9e",
+                "url": "https://res.cloudinary.com/dp95pchm3/image/upload/v1699207223/PenHolder_jgin9e.jpg"
+            }
+        ],
+        "category": "Office",
+        "seller": "FunShop",
+        "Stock": "80",
+        "numOfReview": "189",
+        "reviews": []
+    },
+    {
+        "name": "Light Saber",
+        "price": "19.90",
+        "desription": "Light Saber Detachable USB C Charge. Best Christmas and Birthday Gift for kid and adult",
+        "rating": 3.9,
+        "images": [
+            {
+                "public_id": "products/LighSaber_dbba8u",
+                "url": "https://res.cloudinary.com/dp95pchm3/image/upload/v1699207222/LighSaber_dbba8u.jpg"
+            }
+        ],
+        "category": "Gadgets",
+    
+        "seller": "StarShip",
+        "Stock": "80",
+        "numOfReview": "169",
+        "reviews": []
+    },
+    {
+        "name": "Yoda Lights",
+        "price": "6.90",
+        "desription": "Yoda Lights For christman tree, Porch, Balcony. Solar recharge + battery",
+        "rating": 5.0,
+        "images": [
+            {
+                "public_id": "products/Lights_q7os0f",
+                "url": "https://res.cloudinary.com/dp95pchm3/image/upload/v1699207222/Lights_q7os0f.jpg"
+            }
+        ],
+        "category": "Home",
+    
+        "seller": "FunShop",
+        "Stock": "19",
+        "numOfReview": "8",
+        "reviews": []
+    },
+    {
+        "name": "Kitchen Set",
+        "price": "39.9",
+        "desription": "Star Wars Kitchen Birthday set. Including leek resistant apron, 2 pc saucers and wooden yoda best cook ever cutting board 40X30 cm",
+        "rating": 4.8,
+        "images": [
+            {
+                "public_id": "products/KitchenSet_shkbqq",
+                "url": "https://res.cloudinary.com/dp95pchm3/image/upload/v1699207221/KitchenSet_shkbqq.jpg"
+            }
+        ],
+        "category": "Kitchen",
+    
+        "seller": "FunShop",
+        "Stock": "24",
+        "numOfReview": "4",
+        "reviews": []
+    },
+    {
+        "name": "Star Wars Wall Key Handler",
+        "price": "9.90",
+        "desription": "Star Wars Metal Wall Key handler 30X40 cm for 5 keys.",
+        "rating": 4.2,
+        "images": [
+            {
+                "public_id": "products/KeyHandlerWall2_ainw6z",
+                "url": "https://res.cloudinary.com/dp95pchm3/image/upload/v1699207220/KeyHandlerWall2_ainw6z.jpg"
+            }
+        ],
+        "category": "Home",
+    
+        "seller": "Amazon",
+        "Stock": "20",
+        "numOfReview": "13",
+        "reviews": []
+    },
+    {
+        "name": "Darth Vader Wall Key Handler",
+        "price": "9.90",
+        "desription": "Darth Vader Metal Wall Key handler 25X40 cm for 5 keys.",
+        "rating": 4.1,
+        "images": [
+            {
+                "public_id": "products/KeyHandlerWall_e1ajth",
+                "url": "https://res.cloudinary.com/dp95pchm3/image/upload/v1699207219/KeyHandlerWall_e1ajth.jpg"
+            }
+        ],
+        "category": "Home",
+    
+        "seller": "Amazon",
+        "Stock": "22",
+        "numOfReview": "26",
+        "reviews": []
+    },
+    {
+        "name": "Star Wars Glass Set",
+        "price": "12.9",
+        "desription": "Star wars Designed Glass Set. A Classic Gift for Family and Friends. 4 PC dishwasher safe",
+        "rating": 4.5,
+        "images": [
+            {
+                "public_id": "products/GlassSet_nfpijw",
+                "url": "https://res.cloudinary.com/dp95pchm3/image/upload/v1699207219/GlassSet_nfpijw.jpg"
+            }
+        ],
+        "category": "Kitchen",
+        "seller": "Amazon",
+        "Stock": "50",
+        "numOfReview": "60",
+        "reviews": []
+    },
+    {
+        "name": "Enterance Dark Side Carpet",
+        "price": "8.90",
+        "desription": "Home enterance Darth Vader Dark Side Carpet.",
+        "rating": 5.0,
+        "images": [
+            {
+                "public_id": "products/EnteranceCarpet_fxrf6k",
+                "url": "https://res.cloudinary.com/dp95pchm3/image/upload/v1699207218/EnteranceCarpet_fxrf6k.jpg"
+            }
+        ],
+        "category": "Home",
+    
+        "seller": "Amazon",
+        "Stock": "18",
+        "numOfReview": "99",
+        "reviews": []
+    },
+    {
+        "name": "Feed Me Car Seats",
+        "price": "9.90 ",
+        "desription": "Baby Yoda Car Seats Covers, 2 PC. anti-leeking material. can be washed in washing machine",
+        "rating": 3.5,
+        "images": [
+            {
+                "public_id": "products/CarSeats_wccfei",
+                "url": "https://res.cloudinary.com/dp95pchm3/image/upload/v1699207217/CarSeats_wccfei.jpg"
+            }
+        ],
+        "category": "Car",
+    
+        "seller": "Amazon",
+        "Stock": "2",
+        "numOfReview": "16",
+        "reviews": []
+    },
+    {
+        "name": "Yoda Books Holder",
+        "price": "2.90",
+        "desription": "Yoda Book Holder. 20X40 cm Metal holder",
+        "rating":4.6,
+        "images": [
+            {
+                "public_id": "products/BookHolder_vstmoe",
+                "url": "https://res.cloudinary.com/dp95pchm3/image/upload/v1699207243/BookHolder_vstmoe.jpg"
+            }
+        ],
+        "category": "Office",
+    
+        "seller": "FunShop",
+        "Stock": "29",
+        "numOfReview": "54",
+        "reviews": []
+    }
+]
